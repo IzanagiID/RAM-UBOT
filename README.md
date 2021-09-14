@@ -41,8 +41,6 @@
 <p align="center">&nbsp;</p>
 
 ## Bagaimana Cara Deploy? 🔧 
-  <br>
-  <br>
 [<img src="https://pa1.narvii.com/6827/451b15071bb0e2eab3a00f48213476e21bb7c414_hq.gif">](https://t.me/UserbotChannel/36)
 
 ### AMBIL STRING DI BAWAH INI:
