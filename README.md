@@ -16,7 +16,7 @@
 
 ## PEMILIK REPO
 * **Landak** 🦔
-[<img src="https://media.giphy.com/media/owttbF6yCrQCLmn95E/giphy.mp4?cid=790b7611b41e3113ac27e9f52c144dd6a67a4a4e891facf0&rid=giphy.mp4&ct=g">](https://t.me/maafgausahsokap)
+[<img src="https://giphy.com/gifs/priya-kakashi-hatake-owttbF6yCrQCLmn95E">](https://t.me/maafgausahsokap)
 
   
   
