@@ -16,7 +16,7 @@
 
 ## PEMILIK REPO
 * **Landak** 🦔
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
+[<img src="https://media.giphy.com/media/owttbF6yCrQCLmn95E/source.mov?cid=ecf05e47anpuwd8tanq4unig1t1svrg2zwnqx0xmojtk0ian&rid=source.mov&ct=g">](https://t.me/maafgausahsokap)
 
   
   
