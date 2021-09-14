@@ -15,7 +15,7 @@
 <a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Landak**
+* **IZANAGI ID**
   <br>
   🦔
 [<img src="https://media0.giphy.com/media/owttbF6yCrQCLmn95E/giphy.gif">](https://t.me/izanagi_id)
