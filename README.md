@@ -29,11 +29,6 @@
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
 [<img src="https://telegra.ph/file/193ce51b1a0686b945ad6.jpg">](https://t.me/ootspambott)
-
-
-<h3 align="center">REPO RAM UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
-<p align="center">&nbsp;</p>
-
 ## Bagaimana Cara Deploy? 🔧 
 [<img src="https://pa1.narvii.com/6827/451b15071bb0e2eab3a00f48213476e21bb7c414_hq.gif">](https://t.me/UserbotChannel/36)
 
@@ -41,7 +36,7 @@
 
 ##
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@IzanagiId/IzBotString-Session)
-### KLI DEPLOY DI BAWAH INI:
+### KLIK DEPLOY DI BAWAH INI:
   ##
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
