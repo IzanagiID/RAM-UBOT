@@ -24,7 +24,7 @@
 
 ### JOIN Tele Aku!!:
 
-<a href="https://t.me/Izanagi_Dev"><img src="https://img.shields.io/badge/Channel%20Izanagi%20DevT-blueviolet.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Izanagi_Dev"><img src="https://img.shields.io/badge/Channel%20Izanagi%20Dev-blueviolet.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
