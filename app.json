@@ -1,7 +1,7 @@
 {
   "name": "RAM-UBOT",
   "description": "[RAM-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
+  "logo": "https://telegra.ph/file/193ce51b1a0686b945ad6.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,7 +10,7 @@
     "productivity"
   ],
   "repository": "https://github.com/ramadhani892/RAM-UBOT",
-  "telegram": "https://t.me/Ramadhaniiiiiii1",
+  "telegram": "https://t.me/izanagi_id",
   "success_url": "https://t.me/teman_random",
   "stack": "container",
   "env": {
