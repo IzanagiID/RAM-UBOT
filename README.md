@@ -51,7 +51,7 @@
 ##
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@IzanagiId/IzBotString-Session)
 ##
-<a href="https://heroku.com/deploy?template=https://github.com/IzanagiID/RAM-UBOT/edit/RAM-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 <br>
 </p>
