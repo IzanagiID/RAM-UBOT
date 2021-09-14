@@ -18,7 +18,7 @@
 * **IZANAGI ID**
   <br>
   🦔
-[<img src="https://media0.giphy.com/media/owttbF6yCrQCLmn95E/giphy.gif">](https://t.me/izanagi_id)
+[<img src="https://media.giphy.com/media/nfviWpvWU9085w3fij/giphy.gif">](https://t.me/izanagi_id)
 
 
 
