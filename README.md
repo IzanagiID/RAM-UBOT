@@ -47,7 +47,8 @@
 
 ##
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@IzanagiId/IzBotString-Session)
-##
+### KLI DEPLOY DI BAWAH INI:
+  ##
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 <br>
