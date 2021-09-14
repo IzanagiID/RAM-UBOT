@@ -47,7 +47,7 @@
 
 
 * **VIDEO TUTORIAL DEPLOY!** 🔧
-[<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/UserbotChannel/36)
+[<img src="https://pa1.narvii.com/6827/451b15071bb0e2eab3a00f48213476e21bb7c414_hq.gif">](https://t.me/UserbotChannel/36)
 
 ### AMBIL STRING DI BAWAH INI:
 
